@@ -31,8 +31,8 @@ Environment variables are used for sensitive configuration.
 
 1. **Clone the repository**
 
-git clone https://github.com/<your-username>/product_store.git
-cd product_store
+--git clone https://github.com/<your-username>/product_store.git
+--cd product_store
 
 
 Install backend dependencies
