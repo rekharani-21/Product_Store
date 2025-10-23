@@ -31,23 +31,23 @@ Environment variables are used for sensitive configuration.
 
 1. **Clone the repository**
 
---git clone https://github.com/<your-username>/product_store.git
---cd product_store
+git clone https://github.com/<your-username>/product_store.git
+cd product_store
 
 
-Install backend dependencies
+## Install backend dependencies
 cd backend
 npm install
 
 
-Install frontend dependencies
+## Install frontend dependencies
 cd ../frontend
 npm install
 
-Run backend
+## Run backend
 cd ../backend
 npm run dev
 
-Run frontend
+## Run frontend
 cd ../frontend
 npm run dev
